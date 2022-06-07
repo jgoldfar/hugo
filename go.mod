@@ -44,7 +44,7 @@ require (
 	github.com/muesli/smartcrop v0.3.0
 	github.com/niklasfasching/go-org v1.6.2
 	github.com/olekukonko/tablewriter v0.0.5
-	github.com/pelletier/go-toml/v2 v2.0.0-beta.7.0.20220408132554-2377ac4bc04c
+	github.com/pelletier/go-toml/v2 v2.0.1
 	github.com/rogpeppe/go-internal v1.8.1
 	github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd
 	github.com/sanity-io/litter v1.5.5
@@ -55,7 +55,7 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0
 	github.com/spf13/pflag v1.0.5
 	github.com/tdewolff/minify/v2 v2.11.5
-	github.com/tdewolff/parse/v2 v2.5.31
+	github.com/tdewolff/parse/v2 v2.6.0
 	github.com/yuin/goldmark v1.4.12
 	go.uber.org/atomic v1.9.0
 	gocloud.dev v0.24.0
